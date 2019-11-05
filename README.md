@@ -1,7 +1,8 @@
 # apicliente
-Teste BancoPan
+## Teste BancoPan
 
-ROTEIRO PARA USO DOS ENDPOINT
+### ROTEIRO PARA USO DOS ENDPOINT
+
 Ferramenta utilizada: Postman Version 7.10.0
 
 Cenário 1 - Consultar Cliente url: localhost:8080/api/cliente/busca/{cpf} method: GET Variável {cpf} é um número de 14 digítos.
